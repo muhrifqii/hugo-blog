@@ -3,5 +3,8 @@
 	url = https://github.com/koirand/pulp.git
 [submodule "public"]
 	path = public
-	url = git@github.com:muhrifqii/muhrifqii.github.io.git
+	url = https://github.com/muhrifqii/muhrifqii.github.io.git
 	branch = master
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hossainemruz/toha.git
