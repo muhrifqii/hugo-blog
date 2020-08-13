@@ -1,0 +1,73 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Software Engineer
+# your company information
+#company:
+#  name: Example Co.
+#  url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+summary: 'I am a dedicated & passionate software engineer with 5 years of working experience.
+Having 3 years of android development experience and 2 years of iOS development experience.
+OSS fanatic'
+
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "muh_rif@live.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/muhrifqii"
+
+  - name: Stackoverflow
+    icon: "fab fa-stack-overflow"
+    url: "https://stackoverflow.com/story/muhrifqii"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/muhrifqii/"
+
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/muhrifqii"
+#
+#  - name: Instagram
+#    icon: "fab fa-instagram"
+#    url: "#"
+
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+  - name: Leadership
+    percentage: 85
+    color: blue
+  - name: Team Work
+    percentage: 95
+    color: yellow
+  - name: Communication
+    percentage: 85
+    color: pink
+  - name: Hard Working
+    percentage: 100
+    color: green
+  - name: Fast Learner
+    percentage: 95
+    color: sky
+  - name: Problem Solving
+    percentage: 90
+    color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -12,66 +12,37 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
-
-# Enable Google Analytics
 #googleAnalytics: UA-XXXXXXXXX-X
-
-# Enable Disqus forum
-#disqusShortname: does-not-exist
-
-# Enable global emoji support
+disqusShortname: muhrifqii
 enableEmoji: true
-
-# Custom parameters
 params:
-  # Copyright Notice
-  copyright: Copyright © 2020 Muhammad Rifqi Fatchurrahman.
-
-  # Meta description for your site.  This will help the search engines to find your site.
+  copyright: © 2020 Muhammad Rifqi Fatchurrahman
   description: Portfolio and blog of Muhammad Rifqi Fatchurrahman
-
-  # background image of the landing page
   background: "img/background.jpg"
 
-  # Provide logos for your site. The inverted logo will be used in the initial
-  # transparent navbar and the main logo will be used in the non-transparent navbar.
-  # It will be default to the theme logos if not provided.
   logo:
-    main: /assets/images/main-logo.png
-    inverted: /assets/images/inverted-logo.png
+    main: img/logo_t.png
+    inverted: img/logo_t.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/muhrifqii
-
-  # specify whether you want to write blog post or not
   enableBlogPost: true
-
-  # specify whether you want to show Table of Contents in reading page
   enableTOC: true
-
-  # specify the list of custom menus that you want to show in the top navbar.
-  # they will be separated by a divider from the main menus.
 #  customMenus:
 #    - name: Notes
 #      url: https://hossainnotes.netlify.app/docs/example/
-
-  # Provide newsletter configuration. This feature hasn't been implemented yet.
-  # Currently, you can just hide it from the footer.
 #  newsletter:
 #    enable: true
-
-  # some information about you
   author:
     name: "Muhammad Rifqi Fatchurrahman"
     nickname: "Rifqi"
-    image: "img/avatar.jpg"
+    image: "img/wa.jpg"
     # give your some contact information. they will be used in the footer
     contactInfo:
       email: "muh_rif@live.com"
 #      phone: "+0123456789"
-    # a summary of what you do
     summary:
-      - I am a Software Engineer
-      - I work on native mobile both iOS and android
-      - Kotlin, Swift, Java are my primary language
-      - Also work on back-end with Spring or Go
+      - Software Engineer
+      - Working on native mobile both iOS and android
+#      - Kotlin, Swift, Java are my primary language
+#      - Also work on back-end with Spring or Go
