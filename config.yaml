@@ -23,6 +23,7 @@ params:
   logo:
     main: img/logo_t.png
     inverted: img/logo_t.png
+    favicon: img/logo_t.png
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/muhrifqii
