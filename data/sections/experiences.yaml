@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+  - company:
+      name: Wideboard (Ruang Inovasi Nusantara, Ltd)
+      url: "https://wideboard.me"
+      location: Special Region of Yogyakarta
+      # company overview
+      overview: Wideboard is a team messenger platform that helps connect and integrate all the needed aspects by using chat bot. The chat bot can also be made by request of client. Available for web, android, and iOS.
+    positions:
+      - designation: Lead iOS Engineer
+        start: Jun 2018
+        responsibilities:
+          - Lead iOS dev team.
+          - Migrated from xmpp based chat into new workflow of customized web socket client for chat. Develop the core chat functionality.
+          - Design and develop voip features alongside with Callkit functionality.
+          - Refactor legacy code and separate chat related task from main thread into different queue operation.
+          - Working with APNS Push Notification.
+          - Design and develop customized chat function, and chat bots requirements. (e.g. bot command for forwarding message, opening maps, camera).
+
+      - designation: Lead Android Engineer
+        start: Jun 2017
+        end: Jun 2018
+        responsibilities:
+          - Lead android dev team.
+          - Design the android project workflow, stack, and architecture.
+          - Implement xmpp based chat.
+          - Develop the base chat user interface and most of the attachment chat function.
+
+  - company:
+      name: Mathematics Lab, Universitas Gadjah Mada
+#      url: "https://www.preexample.com"
+      location: Special Region of Yogyakarta
+    positions:
+      - designation: Laboratory Teaching Assistance
+        start: Sep 2013
+        end: Dec 2013
+        responsibilities:
+          - Teaching based on the given syllabus from the head of the lab.
+          - Making the quizzes, exercise, homework, and final exam for students.
