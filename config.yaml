@@ -12,7 +12,7 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
-#googleAnalytics: UA-XXXXXXXXX-X
+googleAnalytics: UA-86493087-1
 disqusShortname: muhrifqii
 enableEmoji: true
 params:
