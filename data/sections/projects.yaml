@@ -94,28 +94,28 @@ projects:
     role: Contributor
     repo: https://github.com/adambard/learnxinyminutes-docs
     summary: Code documentation written as code.
-    tags: ["hobby"]
+    tags: ["hobby", "oss"]
 
   - name: Awesome RxJava
     role: Contributor
     repo: https://github.com/lzyzsd/Awesome-RxJava
     summary: Currated list of RxJava Resources.
-    tags: ["hobby"]
+    tags: ["hobby", "oss"]
 
   - name: Toha
     role: Contributor
     repo: https://github.com/hossainemruz/toha
     summary: A Hugo theme for personal portfolio.
-    tags: ["hobby", "professional"]
+    tags: ["hobby", "professional", "oss"]
 
   - name: Theano-RNN
     role: Contributor
     repo: https://github.com/gwtaylor/theano-rnn
     summary: Demonstration of recurrent neural network implemented with Theano.
-    tags: ["hobby"]
+    tags: ["hobby", "oss"]
 
   - name: Latex Template Skripsi FMIPA UGM
     role: Maintainer
     repo: https://github.com/muhrifqii/skripsi-fmipa-ugm-latex
     summary: Template Latex Skripsi FMIPA UGM. Lanjutan modifikasi template official tanpa harus pakai Sharelatexovex/Overleaf.
-    tags: ["professional", "hobby"]
+    tags: ["professional", "hobby", "oss"]
