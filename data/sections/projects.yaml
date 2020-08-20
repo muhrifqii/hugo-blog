@@ -1,0 +1,121 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+  - name: Behafizh
+    logo: img/projects/behafizh.png
+    role: Android Developer
+    timeline: "April 2016 - Present"
+    url: https://play.google.com/store/apps/details?id=com.yutjem.hafidz
+    summary: BeHafizh is an application that is intended to make it easier for Al-Quran memorizers to record, repeat, and test their memorization. Simple application, easy to use, with focused features to help memorizers of the Qur'an.
+    tags: ["professional", "android", "application"]
+
+  - name: SIGA DIY Mobile
+    logo: img/projects/siga.png
+    role: Android Developer
+    timeline: "June 2019 - July 2019"
+    url: https://play.google.com/store/apps/details?id=id.go.jogjaprov.siga
+    summary: SIGA DIY Mobile is a data and information application for Gender Mainstreaming Indicators and Fulfilling the Rights of Children in the Special Region of Yogyakarta.
+      This application is designed to facilitate the use of data and facilitate the search for information on indicators of the implementation of gender mainstreaming and fulfillment of children's rights in the Special Region of Yogyakarta.
+    tags: ["professional", "android", "application"]
+
+  - name: NRE Powerplant
+    role: Backend Developer
+    timeline: "May 2020 - August 2020"
+    url: https://nre-powerplant-merahputih.id/login
+    summary: Direct mapping of local industries that are directly or indirectly related to the process of developing new and renewable energy generators (EBT) through this site (Integrated Platform).
+    tags: ["professional", "backend", "application"]
+
+  - name: ParseRSS
+    role: Owner/Maintainer
+    repo: https://github.com/muhrifqii/ParseRSS
+    summary: A cup of library to Parse RSS for android. Also available as a ConverterFactory for Retrofit & Fuel.
+    tags: ["professional", "hobby", "android", "oss"]
+
+  - name: ClusterWS Swift Client
+    role: Contributor
+    repo: https://github.com/ClusterWS/ClusterWS-Client-Swift
+    summary: Official Swift Client library for ClusterWS - lightweight, fast and powerful framework for building scalable WebSockets applications.
+    tags: ["professional", "hobby", "ios", "oss"]
+
+  - name: Compressor
+    role: Contributor
+    repo: https://github.com/zetbaitsu/Compressor
+    summary: Compressor is a lightweight and powerful android image compression library. Compressor will allow you to compress large photos into smaller sized photos with very less or negligible loss in quality of the image.
+    tags: ["professional", "hobby", "android", "oss"]
+
+  - name: UnderLineTextField
+    role: Contributor
+    repo: https://github.com/mohammadalijf/UnderLineTextField
+    summary: Simple iOS UITextfield Subclass with state.
+    tags: ["professional", "hobby", "ios", "oss"]
+
+  - name: Montreal-Forced-Aligner
+    role: Contributor
+    repo: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner
+    summary: Command line utility for forced alignment using Kaldi.
+    tags: ["professional", "hobby", "oss"]
+
+  - name: KataSuperHeroesAndroid
+    role: Contributor
+    repo: https://github.com/Karumi/KataSuperHeroesAndroid
+    summary: Super Heroes Kata for Android Developers. The main goal is to practice UI Testing.
+    tags: ["hobby", "android", "oss"]
+
+  - name: KataSuperHeroesKotlin
+    role: Contributor
+    repo: https://github.com/Karumi/KataSuperHeroesKotlin
+    summary: Super Heroes Kata for Android Developers in Kotlin. The main goal is to practice UI Testing.
+    tags: ["hobby", "android", "oss"]
+
+  - name: NotificationBanner
+    role: Contributor
+    repo: https://github.com/Daltron/NotificationBanner
+    summary: The easiest way to display highly customizable in app notification banners in iOS.
+    tags: ["professional", "hobby", "ios", "oss"]
+
+  - name: learnxinyminutes
+    role: Contributor
+    repo: https://github.com/adambard/learnxinyminutes-docs
+    summary: Code documentation written as code.
+    tags: ["hobby"]
+
+  - name: Awesome RxJava
+    role: Contributor
+    repo: https://github.com/lzyzsd/Awesome-RxJava
+    summary: Currated list of RxJava Resources.
+    tags: ["hobby"]
+
+  - name: Toha
+    role: Contributor
+    repo: https://github.com/hossainemruz/toha
+    summary: A Hugo theme for personal portfolio.
+    tags: ["hobby", "professional"]
+
+  - name: Theano-RNN
+    role: Contributor
+    repo: https://github.com/gwtaylor/theano-rnn
+    summary: Demonstration of recurrent neural network implemented with Theano.
+    tags: ["hobby"]
+
+  - name: Latex Template Skripsi FMIPA UGM
+    role: Maintainer
+    repo: https://github.com/muhrifqii/skripsi-fmipa-ugm-latex
+    summary: Template Latex Skripsi FMIPA UGM. Lanjutan modifikasi template official tanpa harus pakai Sharelatexovex/Overleaf.
+    tags: ["professional", "hobby"]
