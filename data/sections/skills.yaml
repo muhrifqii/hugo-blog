@@ -1,37 +1,63 @@
-#section:
-#  name: Skills
-#  enable: true
-#  weight: 2
-#  showOnNavbar: true
-#  # Can optionally hide the title in sections
-#  # hideTitle: true
-#
-## Your Skills.
-## Give a summary of you each skill in the summary section.
-#skills:
-#  - name: Go Development
-#    icon: "img/skills/go.png"
-#    summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-#    url: "https://golang.org/"
-#
-#  - name: Cloud Computing
-#    icon: "img/skills/cloud.png"
-#    summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-#
-#  - name: Docker
-#    icon: "img/skills/docker.svg"
-#    summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-#    url: "https://www.docker.com/"
-#
-#  - name: Linux
-#    icon: "img/skills/linux.png"
-#    summary: "Capable of writing bash/shell scripts."
-#
-#  - name: Git
-#    icon: "img/skills/git.png"
-#    summary: "Experienced with git-based development. Active both on Github and Gitlab, also have some project on Atlassian Bitbucket"
-#    url: "https://git-scm.com/"
-#
-#  - name: C++
-#    icon: "img/skills/c++.png"
-#    summary: "Know basic C/C++ programming. Used for programming contest and problem solving."
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Swift
+    summary: "Used mainly as professional development for iOS Application. Tweaking swift Vapor backend framework on free time."
+    icon: "img/skills/swift.png"
+    url: "https://developer.apple.com/swift/"
+
+  - name: Kotlin
+    summary: "Been using since alpha release. Professional development for Android Application."
+    icon: "img/skills/kotlin.png"
+    url: "https://kotlinlang.org"
+
+  - name: Java
+    summary: "More than 5 years of knowledge. Used on Spring Boot project and older android projects."
+    icon: "img/skills/java.png"
+    url: "https://www.oracle.com/java/technologies/"
+
+  - name: C#
+    summary: "Used for Windows Platform Development and used on XNA Framework."
+    icon: "img/skills/cs.png"
+    url: "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+
+  - name: Python
+    summary: "Used for building Deep Learning model, using either Tensorflow or Keras. Also tweaking Python Flask backend framework."
+    icon: "img/skills/py.png"
+    url: "https://www.python.org"
+
+  - name: Scala
+    summary: "Mainly used to accustom Functional Programming Paradigm on self project. Used because it's JVM based."
+    icon: "img/skills/scala.jpg"
+    url: "https://www.scala-lang.org"
+
+  - name: Docker
+    icon: "img/skills/docker.svg"
+    summary: "Write most of the programs as dockerized container."
+    url: "https://www.docker.com/"
+
+  - name: Linux
+    icon: "img/skills/linux.png"
+    summary: "Capable of writing bash/shell scripts."
+
+  - name: Git
+    icon: "img/skills/git.png"
+    summary: "Experienced with git-based development. Actively contributes both on Github and Gitlab, also have some project on Atlassian Bitbucket."
+    url: "https://git-scm.com/"
+
+  - name: Go
+    icon: "img/skills/go.png"
+    summary: "Used on side project using gin framework."
+    url: "https://golang.org/"
+
+  - name: C++
+    icon: "img/skills/c++.png"
+    summary: "Know basic C/C++ programming. Used for programming contest and problem solving."
