@@ -12,7 +12,7 @@ experiences:
   - company:
       name: Kuelap, Inc
       url: "https://kuelap.io"
-      location: Jakarta (HQ: Seattle, WA)
+      location: "Jakarta (HQ: Seattle, WA)"
     positions:
       - designation: Software Engineer
         start: Oct 2020
