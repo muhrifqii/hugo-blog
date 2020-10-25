@@ -10,6 +10,14 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Kuelap, Inc
+      url: "https://kuelap.io"
+      location: Jakarta (HQ: Seattle, WA)
+    positions:
+      - designation: Software Engineer
+        start: Oct 2020
+
+  - company:
       name: Wideboard (Ruang Inovasi Nusantara, Ltd)
       url: "https://wideboard.me"
       location: Special Region of Yogyakarta
@@ -18,6 +26,7 @@ experiences:
     positions:
       - designation: Lead iOS Engineer
         start: Jun 2018
+        end: Sep 2020
         responsibilities:
           - Lead iOS dev team.
           - Migrated from xmpp based chat into new workflow of customized web socket client for chat. Develop the core chat functionality.
