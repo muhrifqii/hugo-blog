@@ -16,6 +16,10 @@ experiences:
     positions:
       - designation: Software Engineer
         start: Oct 2020
+        responsibilities:
+          - Develops the mobile banking app
+          - Build CI/CD pipeline for the mobile app
+          - Develops rest api that being consumed by mobile banking
 
   - company:
       name: Wideboard (Ruang Inovasi Nusantara, Ltd)

@@ -19,6 +19,7 @@ params:
   copyright: © 2020 Muhammad Rifqi Fatchurrahman
   description: Portfolio and blog of Muhammad Rifqi Fatchurrahman
   background: "img/background.jpg"
+  custom_css: "css/custom.css"
 
   logo:
     main: img/logo_t.png
