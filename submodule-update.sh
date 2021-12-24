@@ -1,4 +1,4 @@
 #!/bin/bash
 
-git submodule update --remote --rebase
+git submodule update --remote
 
