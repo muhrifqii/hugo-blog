@@ -12,14 +12,14 @@ experiences:
   - company:
       name: Kuelap, Inc
       url: "https://kuelap.io"
-      location: "Jakarta (HQ: Seattle, WA)"
+      location: "Remotely (Seattle, WA)"
     positions:
       - designation: Software Engineer
         start: Oct 2020
         responsibilities:
-          - Develops the mobile banking app
-          - Build CI/CD pipeline for the mobile app
-          - Develops rest api that being consumed by mobile banking
+          - Initiate and build kuelap digital banking app for android mobile and the web platform.
+          - Responsible for android app automatic deployment and release process.
+          - Develop backend rest api that being consumed by mobile digital banking app.
 
   - company:
       name: Wideboard (Ruang Inovasi Nusantara, Ltd)

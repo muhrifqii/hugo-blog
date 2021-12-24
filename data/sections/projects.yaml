@@ -38,7 +38,7 @@ projects:
   - name: NRE Powerplant
     role: Backend Developer
     timeline: "May 2020 - August 2020"
-    url: https://nre-powerplant-merahputih.id/login
+#    url: https://nre-powerplant-merahputih.id/login
     summary: Direct mapping of local industries that are directly or indirectly related to the process of developing new and renewable energy generators (EBT) through this site (Integrated Platform).
     tags: ["professional", "backend", "application"]
 
